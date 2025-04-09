@@ -1,0 +1,1 @@
+{"root":["../src/data-source.ts","../src/config/config.ts","../src/entity/groceryitem.ts","../src/entity/order.ts","../src/routes/adminroutes.ts","../src/routes/userroutes.ts"],"errors":true,"version":"5.8.2"}
